@@ -98,7 +98,8 @@ Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata 
 # Requisito Funcional 2:
 
 ## Acessar Cadastro:
-
+### Feito por: Luís Felipe Krause de Castro
+#### Revisado por: <nome> 
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração
@@ -237,7 +238,8 @@ O ator está conectado ao sistema, acessa a aba de perfil e seleciona o botão a
 # Requisito Funcional 5:
 
 ## Desativar Cadastro:
-
+### Feito por: Luís Felipe Krause de Castro
+#### Revisado por: <nome> 
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
