@@ -51,7 +51,7 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 # Requisito Funcional 1:
 ## Cadastrar Dados:
 ### Feito por: Luiz Filipe de Souza Alves
-#### Revisado por: <nome> 
+#### Revisado por: Patryck Henryck Moreira Silva
 ### Atores:
 Empresário, micro-empresário e profissional em administração.
 
@@ -279,7 +279,7 @@ O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desa
 
 ## Consultar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: <nome>
+#### Revisado por: João Victor Ribeiro Santos
 
 ### Atores:
 
@@ -324,7 +324,7 @@ Meu nome é Romero Britto, sou um empresário e já participei da fundação de 
 
 ## Alterar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: <nome>
+#### Revisado por: João Victor Ribeiro Santos
 
 ### Atores:
 
