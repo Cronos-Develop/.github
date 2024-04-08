@@ -3,6 +3,16 @@
 ## Quem Somos:
 O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em um objetivo empresarial cujo efeito será a longo ou curto prazo mas que necessita de um método bem definido pelo empresário para ser feita. O diferencial da plataforma é que ela será totalmente orientada pelos dados qualitativos e quantitativos que o usuário fornecer sugerindo alterações em prazos e métodos por meio de soluções de IA. Além disso, há a opção de utilizar a matriz 5W2H ou a matriz GUT ou até mesmo as duas ao mesmo tempo para o planejamento de ações conforme suas prioridades. Portanto, ela é perfeita para micro-empreendedores ou administradores que estão cansados de tanto papel e de interfaces não amigáveis para planejar suas obrigações.
 
+## Desenvolvedores do projeto:
+|Nome|Github|
+|---|---|
+|Luiz Filipe de Souza Alves|[LuFi-1227](https://github.com/LuFi-1227)|
+|Patryck Henryck Moreira Silva|[PHmore](https://github.com/PHmore)|
+|Antônio Cássio de Oliveira Neto|[ACNprogrammer](https://github.com/ACNprogrammer)|
+|Luis Felipe Krause de Castro|[LuisFelipeKrause](https://github.com/LuisFelipeKrause)|
+|João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
+##
+
 ## Tecnologias Utilizadas:
 ### Front End:
 #### HTML:
@@ -279,7 +289,7 @@ O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desa
 
 ## Cadastrar Planejamento:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
@@ -317,7 +327,7 @@ Depois de fazer o login na plataforma, o usuario clica no botão “Novo planeja
 
 ## Filtrar Planejamentos:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
@@ -362,7 +372,7 @@ Usuario entra na página de listagem dos planos e tem a opção de clicar na cai
 
 ## Consultar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: João Victor Ribeiro Santos
+#### Revisado por: João Victo Ribeiro Santos
 
 ### Atores:
 
@@ -407,7 +417,7 @@ Meu nome é Romero Britto, sou um empresário e já participei da fundação de 
 
 ## Alterar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: João Victor Ribeiro Santos
+#### Revisado por: João Victo Ribeiro Santos
 
 ### Atores:
 
@@ -450,7 +460,7 @@ O ator que está conectado ao sistema acessa a aba de “Meus planos” e seleci
 
 # Requisito Funcional 10:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ## Consultar Tarefas:
 
 ### Atores:
