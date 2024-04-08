@@ -51,7 +51,7 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 # Requisito Funcional 1:
 ## Cadastrar Dados:
 ### Feito por: Luiz Filipe de Souza Alves
-#### Revisado por: <nome> 
+#### Revisado por: Patryck Henryck Moreira Silva
 ### Atores:
 Empresário, micro-empresário e profissional em administração.
 
