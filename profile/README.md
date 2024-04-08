@@ -95,6 +95,48 @@ O ator que ainda não possuir cadastro feito na plataforma poderá criar o próp
 ## User Storie RF 1:
 Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata de porta em porta à pouco tempo e gostaria de usar meu <strong>*celular</strong>* para me *<strong>*cadastrar*</strong>* em uma plataforma para planejar meu dia a dia com a ajuda de algum aplicativo que me ajudasse à priorizar minhas atividades com base nas informações que eu fornecesse e salvasse meu progresso para que eu veja o que eu fiz quando eu comprar um computador.
 
+# Requisito Funcional 2:
+
+## Acessar Cadastro:
+### Feito por: Luís Felipe Krause de Castro
+#### Revisado por: Luiz Filipe de Souza Alves
+### Atores:
+
+Empresário, micro-empresário e profissional em administração
+
+### Descrição:
+
+Querendo acessar sua conta, o ator insere suas credenciais na plataforma. Os dados serão consultados no banco de dados à procura do login e senha inseridos. Caso seja autenticado, a plataforma libera o acesso ao ator. Caso não conste no banco de dados, o ator não será autenticado e não poderá acessar sua conta.
+
+### Pré-condição:
+
+1. O ator deve possuir uma conta cadastrada e suas devidas credenciais.
+2. O ator deve desejar fazer o login na plataforma.
+
+### Fluxo Principal:
+
+Depois de inserir suas credenciais, o sistema autentica corretamente o usuário e o encaminha para usar a plataforma.
+
+### Fluxo Secundário:
+
+As credenciais não são reconhecidas, então o usuário pode fazer o cadastro.
+
+### Campos de Formulário:
+
+| Dado: | Tipo de dado: | Placeholder: |
+| --- | --- | --- |
+| Email ou CPF | Texto | CPF ou email |
+| Senha | Texto | ********* |
+
+### Opções do Usuário:
+
+- Acessar Cadastro;
+- Recuperar dados;
+
+## User Storie RF 2:
+
+“Meu nome é Iveto Sangalo. Sou um empresário que utiliza a Cronos para auxílio no planejamento de operações da minha empresa. Sou cadastrado na plataforma, então desejo acessar minha conta através do meu CPF e senha para usar as ferramentas de organização.”
+
 # Requisito Funcional 3:
 
 ## Recuperar Dados:
@@ -192,3 +234,43 @@ O ator está conectado ao sistema, acessa a aba de perfil e seleciona o botão a
 ## User Storie RF 4:
 
 “Meu nome é Flávio Moraes. Sou um empresário que utiliza a Cronos, tenho um email como forma de recuperação o qual não tenho acesso, portanto indo em ‘Meu perfil’ e apertando em ‘Ajustes’ após realizar a autenticação troquei meu email de recuperação em ‘Editar informações de segurança’ e apertei o botão ‘Confirmar’ assim consegui atualizar meu email de recuperação”.
+
+# Requisito Funcional 5:
+
+## Desativar Cadastro:
+### Feito por: Luís Felipe Krause de Castro
+#### Revisado por: Luiz Filipe de Souza Alves
+### Atores:
+
+Empresário, micro-empresário e profissional em administração.
+
+### Descrição:
+
+O ator, não querendo continuar a usar a plataforma, tem a opção de desativar seu cadastro. Antes de desativar o cadastro, há uma confirmação.
+
+### Pré-condição:
+
+1. Possuir cadastro no sistema;
+
+### Fluxo Principal:
+
+O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desativar cadastro. Ao clicar na opção de desativação, há uma confirmação. Se confirmada, a desativação da conta é efetuada.
+
+### Fluxo Secundário:
+
+O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desativar cadastro. Ao clicar na opção de desativação, há uma confirmação. Caso não seja confirmada, o ator é direcionado para o seu perfil.
+
+### Campos de Formulário:
+
+| Botão | Ação |
+| --- | --- |
+| “Excluir Conta” | Desativação do cadastro |
+
+### Opções do Usuário:
+
+- Confirmar desativação do cadastro;
+- Cancelar;
+
+## User Storie RF 5:
+
+“Sou Tiffany Sousa, uma profissional de administração usuária da Cronos. Criei minha conta na Cronos para ajudar no planejamento dos meus clientes. Depois de um tempo de testes, decidi deixar a plataforma. Desejo desativar meu cadastro através de um botão de ‘desativar’ e uma confirmação (outro botão).”
