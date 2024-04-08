@@ -275,6 +275,89 @@ O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desa
 
 “Sou Tiffany Sousa, uma profissional de administração usuária da Cronos. Criei minha conta na Cronos para ajudar no planejamento dos meus clientes. Depois de um tempo de testes, decidi deixar a plataforma. Desejo desativar meu cadastro através de um botão de ‘desativar’ e uma confirmação (outro botão).”
 
+# Requisito Funcional 6:
+
+## Cadastrar Planejamento:
+### Feito por: João Victo Ribeiro Santos
+#### Revisado por: Patryck Henryck Moreira Silva
+### Atores:
+
+Empresário, micro-empresário e profissional em administração.
+
+### Descrição:
+
+O ator pode criar quantos planejamentos ele quiser. Ao clicar no botão “Novo planejamento”, o ator sera direcionado para uma nova página onde respondera várias perguntas para montar um novo plano.
+
+### Pré-condição:
+
+1. Estar logado na plataforma.
+
+### Fluxo Principal:
+
+Depois de fazer o login na plataforma, o usuario clica no botão “Novo planejamento” e é redirecionando para uma nova página onde podera iniciar o novo plano. O ator é convidado a responder uma série de perguntas sobre o negócio que pretende criar. Ao final do questionario é mostrado o resultado.
+
+### Fluxo Secundário:
+
+1. O ator entra na página de criação de plano.
+2. Antes de terminar o processo o ator desiste e clica em “Cancelar”.
+3. O ator é redirecionado para a tela principal.
+
+### Campos de Formulário:
+
+### Opções do Usuário:
+
+- Responder questionario
+- Cancelar planejamento
+
+## User Storie RF 6:
+
+"Eu sou João, um micro-empresário que acabou de abrir um café. Estou usando o Cronos para me ajudar a planejar melhor meu negócio. Eu preciso de um botão 'Novo planejamento' que me leve a uma nova página onde posso responder a várias perguntas para criar um plano de expansão para o meu café."
+
+# Requisito Funcional 7:
+
+## Filtrar Planejamentos:
+### Feito por: João Victo Ribeiro Santos
+#### Revisado por: Patryck Henryck Moreira Silva
+### Atores:
+
+Empresário, micro-empresário e profissional em administração.
+
+### Descrição:
+
+O usuário, após criar alguns planos de negócios na plataforma Cronos, pode sentir a necessidade de filtrar esses planos para uma visualização mais eficiente. A filtragem permite ao usuário aplicar alguns critérios para limitar o numero de planos exibidos. Assim, o usuário pode facilmente encontrar o plano que está procurando.
+
+### Pré-condição:
+
+1. Estar logado na plataforma.
+2. Ter ao menos mais de um plano cadastrado
+
+### Fluxo Principal:
+
+Usuario entra na página de listagem dos planos e tem a opção de clicar na caixa de busca para filtrar por nome, ou então marcar checkboxes para buscar por tipo de plano
+
+### Fluxo Secundário:
+
+1. Usuario entra na pagina de planos.
+2. Seleciona um plano sem necessariamente usar a ferramenta de filtragem.
+
+### Campos de Formulário:
+
+| Campo: | Tipo de dado | Placeholder: |
+| --- | --- | --- |
+| Caixa de busca | texto | Pesquise aqui |
+| Data | data | Data de criação |
+
+### Opções do Usuário:
+
+- Selecionar o plano sem filtrar
+- Usar a caixa de busca
+- Usar a filtragem por data
+- Sair da página de planos
+
+## User Storie RF 7:
+
+"Eu sou Maria, uma micro-empresário que já criou vários planos de negócios na plataforma Cronos. Com o tempo, a lista de planos tornou-se extensa e agora estou tendo dificuldades para encontrar um plano específico que criei há alguns meses. Eu preciso de uma funcionalidade que me permita filtrar meus planos de negócios por nome ou data, para que eu possa localizar rapidamente o plano que estou procurando."
+
 # Requisito Funcional 8:
 
 ## Consultar Planejamentos:
@@ -364,3 +447,48 @@ O ator que está conectado ao sistema acessa a aba de “Meus planos” e seleci
 ## User Storie RF 9:
 
 "Eu sou Nicolas Augusto, eu tinha criado uma empresa de Histórias em quadrinhos (Atlas), para organizar minhas ideias, eu também criei um plano no Chronos. Contudo, recentemente foi decidido que a Atlas também trabalhará com outras categorias de artes, com isso vejo a necessidade de alterar o plano que eu tinha feito anteriormente. Para isso, eu precisso de um botão alterar no plano que eu ja fiz na pagina ""Meus Planos"".
+
+# Requisito Funcional 10:
+### Feito por: João Victo Ribeiro Santos
+#### Revisado por: Patryck Henryck Moreira Silva
+## Consultar Tarefas:
+
+### Atores:
+
+Empresário, micro-empresário e profissional em administração
+
+### Descrição:
+
+Após a criação de um planejamento, o autor pode querer consultar as tarefas que foram incluídas nesse planejamento. A tarefa de consulta permite ao autor visualizar as tarefas de um plano específico, facilitando a gestão e o acompanhamento do progresso do plano.
+
+### Pré-condição:
+
+1. O ator deve estar cadastrado no sistema;
+2. O ator deve ter feito o login na plataforma;
+3. Deve haver pelo menos um plano com tarefas criadas.
+
+### Fluxo Principal:
+
+O ator logado no sistema acessa a aba de “Meus Planos”, seleciona o plano específico que deseja consultar e clica no botão “Consultar Tarefas”. Isso o levará a uma página com uma lista de todas as tarefas vinculadas a esse plano.
+
+### Fluxo Secundário:
+
+1. O usuário não tem planos criados e é direcionado para criar um novo plano.
+
+### Campos de Formulário:
+
+| Dado: | Tipo de dado: | Placeholder: |
+| --- | --- | --- |
+| Nome da Tarefa | Texto | Nome da Tarefa |
+| Descrição da Tarefa | Texto | Descrição da Tarefa |
+| Data de Início | Data | Data de Início |
+| Data de Término | Data | Data de Término |
+
+### Opções do Usuário:
+
+- Consultar Tarefas
+- Voltar para "Meus Planos"
+
+## User Storie RF 10:
+
+“Eu sou Fernando, um empresário que utiliza a Cronos para me auxiliar no planejamento das tarefas do meu negócio. Após criar um plano de negócios, desejo consultar as tarefas desse plano para ter uma visão geral das atividades que preciso realizar. Preciso de um botão de "Consultar Tarefas" dentro do plano que me permita visualizar todas as tarefas relacionadas a esse plano.”
