@@ -1,3 +1,125 @@
+# Índice:
+- [Aplicativo Cronos](#aplicativo-cronos)
+    - [Quem Somos](#quem-somos)
+    - [Desenvolvedores do projeto](#desenvolvedores-do-projeto)
+    - [Tecnologias Utilizadas](#tecnologias-utilizadas)
+        - [Front End](#front-end)
+            - [HTML](#html)
+            - [CSS](#css)
+            - [JavaScript](#javascript)
+        - [Back End](#back-end)
+            - [PHP com Laravel](#php-com-laravel)
+        - [Banco de dados](#banco-de-dados)
+            - [MySQL](#mysql)
+        - [Ambiente de desenvolvimento](#ambiente-de-desenvolvimento)
+            - [Docker e Docker-Compose](#docker-e-docker-compose)
+            - [Composer](#composer)
+            - [GitBash](#gitbash)
+            - [XAMPP](#xampp)
+    - [Publico Alvo](#publico-alvo)
+        - [Empresários ou micro Empresários](#empresários-ou-micro-empresários)
+        - [Profissional em administração](#profissional-em-administração)
+- [Requisito Funcional 1](#requisito-funcional-1)
+    - [Cadastrar Dados](#cadastrar-dados)
+        - [Atores](#atores)
+        - [Descrição](#descrição)
+        - [Pré-condição](#pré-condição)
+        - [Fluxo Principal](#fluxo-principal)
+        - [Fluxo Secundário](#fluxo-secundário)
+        - [Campos de Formulário](#campos-de-formulário)
+        - [Opções do Usuário](#opções-do-usuário)
+    - [User Storie RF 1](#user-storie-rf-1)
+- [Requisito Funcional 2](#requisito-funcional-2)
+    - [Acessar Cadastro](#acessar-cadastro)
+        - [Atores](#atores-1)
+        - [Descrição](#descrição-1)
+        - [Pré-condição](#pré-condição-1)
+        - [Fluxo Principal](#fluxo-principal-1)
+        - [Fluxo Secundário](#fluxo-secundário-1)
+        - [Campos de Formulário](#campos-de-formulário-1)
+        - [Opções do Usuário](#opções-do-usuário-1)
+    - [User Storie RF 2](#user-storie-rf-2)
+- [Requisito Funcional 3](#requisito-funcional-3)
+    - [Recuperar Dados](#recuperar-dados)
+        - [Atores](#atores-2)
+        - [Descrição](#descrição-2)
+        - [Pré-condição](#pré-condição-2)
+        - [Fluxo Principal](#fluxo-principal-2)
+        - [Fluxo Secundário](#fluxo-secundário-2)
+        - [Campos de Formulário](#campos-de-formulário-2)
+        - [Opções do Usuário](#opções-do-usuário-2)
+    - [User Storie RF 3](#user-storie-rf-3)
+- [Requisito Funcional 4](#requisito-funcional-4)
+    - [Alterar Dados](#alterar-dados)
+        - [Atores](#atores-3)
+        - [Descrição](#descrição-3)
+        - [Pré-condição](#pré-condição-3)
+        - [Fluxo Principal](#fluxo-principal-3)
+        - [Fluxo Secundário](#fluxo-secundário-3)
+        - [Campos de Formulário](#campos-de-formulário-3)
+        - [Opções do Usuário](#opções-do-usuário-3)
+    - [User Storie RF 4](#user-storie-rf-4)
+- [Requisito Funcional 5](#requisito-funcional-5)
+    - [Desativar Cadastro](#desativar-cadastro)
+        - [Atores](#atores-4)
+        - [Descrição](#descrição-4)
+        - [Pré-condição](#pré-condição-4)
+        - [Fluxo Principal](#fluxo-principal-4)
+        - [Fluxo Secundário](#fluxo-secundário-4)
+        - [Campos de Formulário](#campos-de-formulário-4)
+        - [Opções do Usuário](#opções-do-usuário-4)
+    - [User Storie RF 5](#user-storie-rf-5)
+- [Requisito Funcional 6](#requisito-funcional-6)
+    - [Cadastrar Planejamento](#cadastrar-planejamento)
+        - [Atores](#atores-5)
+        - [Descrição](#descrição-5)
+        - [Pré-condição](#pré-condição-5)
+        - [Fluxo Principal](#fluxo-principal-5)
+        - [Fluxo Secundário](#fluxo-secundário-5)
+        - [Campos de Formulário](#campos-de-formulário-5)
+        - [Opções do Usuário](#opções-do-usuário-5)
+    - [User Storie RF 6](#user-storie-rf-6)
+- [Requisito Funcional 7](#requisito-funcional-7)
+    - [Filtrar Planejamentos](#filtrar-planejamentos)
+        - [Atores](#atores-6)
+        - [Descrição](#descrição-6)
+        - [Pré-condição](#pré-condição-6)
+        - [Fluxo Principal](#fluxo-principal-6)
+        - [Fluxo Secundário](#fluxo-secundário-6)
+        - [Campos de Formulário](#campos-de-formulário-6)
+        - [Opções do Usuário](#opções-do-usuário-6)
+    - [User Storie RF 7](#user-storie-rf-7)
+- [Requisito Funcional 8](#requisito-funcional-8)
+    - [Consultar Planejamentos](#consultar-planejamentos)
+        - [Atores](#atores-7)
+        - [Descrição](#descrição-7)
+        - [Pré-condição](#pré-condição-7)
+        - [Fluxo Principal](#fluxo-principal-7)
+        - [Fluxo Secundário](#fluxo-secundário-7)
+        - [Campos de Formulário](#campos-de-formulário-7)
+        - [Opções do Usuário](#opções-do-usuário-7)
+    - [User Storie RF 8](#user-storie-rf-8)
+- [Requisito Funcional 9](#requisito-funcional-9)
+    - [Alterar Planejamentos](#alterar-planejamentos)
+        - [Atores](#atores-8)
+        - [Descrição](#descrição-8)
+        - [Pré-condição](#pré-condição-8)
+        - [Fluxo Principal](#fluxo-principal-8)
+        - [Fluxo Secundário](#fluxo-secundário-8)
+        - [Campos de Formulário](#campos-de-formulário-8)
+        - [Opções do Usuário](#opções-do-usuário-8)
+    - [User Storie RF 9](#user-storie-rf-9)
+- [Requisito Funcional 10](#requisito-funcional-10)
+    - [Consultar Tarefas](#consultar-tarefas)
+        - [Atores](#atores-9)
+        - [Descrição](#descrição-9)
+        - [Pré-condição](#pré-condição-9)
+        - [Fluxo Principal](#fluxo-principal-9)
+        - [Fluxo Secundário](#fluxo-secundário-9)
+        - [Campos de Formulário](#campos-de-formulário-9)
+        - [Opções do Usuário](#opções-do-usuário-9)
+    - [User Storie RF 10](#user-storie-rf-10)
+
 # Aplicativo Cronos
 
 ## Quem Somos:
@@ -15,28 +137,40 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 
 ## Tecnologias Utilizadas:
 ### Front End:
-#### HTML:
+- #### HTML:
+    - HTML significa Hyper Text Markup Language e é a principal ferramenta utilizada para renderizar conteúdo na WEB, sendo interpretada pelos navegadores de forma linear, de cima para baixo e podendo ser utilizada em diversas plataformas, independentemente de sistemas operacionais, pois o HTML atua sobre os navegadores.
 
-#### CSS:
+- #### CSS:
+    - CSS significa Cascade Style Sheet, ou folha de estilos em cascata e serve para estilizar as páginas em HTML, o CSS é interpretado de cima para baixo e é aplicado sobre os elementos HTML das páginas para deixar os designs mais amigáveis para o ser humano.
 
-#### JavaScript:
+- #### JavaScript:
+    - JavaScript é uma linguagem de programação de alto nível que é interpretada pelos navegadores e serve para atribuir funções aos elementos HTML, ela pode ser utilizada para validação de dados, criação de funções e armazenamento de dados. Possuindo uma grande variação de objetos e ferramentas para o programador. Ela também é fracamente tipada e é interpretada linha a linha de cima para baixo.
 
 ### Back End:
-#### PHP com Laravel:
+- #### PHP com Laravel:
+    - Laravel é um framework PHP de código aberto criado por Taylor B. Otwell para o desenvolvimento de sistemas web usando o padrão MVC (Model-View-Controller). Destaca-se por sua sintaxe simples e concisa, modularidade com um gerenciador de dependências dedicado, várias opções para acesso a bancos de dados relacionais e utilitários úteis para o desenvolvimento e manutenção de sistemas.
 
 ### Banco de dados:
-#### MySQL:
+- #### MySQL:
+    - O MySQL é um sistema de gerenciamento de banco de dados (SGBD) que utiliza a linguagem SQL (Structured Query Language) como interface. Desenvolvido pela Oracle Corporation, é um dos SGBDs mais populares, com mais de 10 milhões de instalações em todo o mundo. A linguagem SQL é usada para consultar, manipular e gerenciar dados armazenados no banco de dados MySQL.
 
 ### Ambiente de desenvolvimento:
-#### Docker e Docker-Compose:
-#### Composer:
-#### GitBash:
-#### XAMPP:
+- #### Docker e Docker-Compose:
+    - Docker é uma plataforma que utiliza virtualização de nível de sistema operacional para fornecer software em contêineres isolados. Docker Compose, por sua vez, é uma ferramenta que simplifica a definição e execução de aplicações com múltiplos contêineres. Ele simplifica o controle de todos os serviços, redes e volumes em um único arquivo de configuração YAML, permitindo a criação e inicialização de todos os serviços com um único comando. Isso desbloqueia uma experiência de desenvolvimento e implantação mais eficiente e simplificada.
+
+- #### Composer:
+    - O Composer é um gerenciador de dependências para PHP. Ele instala bibliotecas necessárias para suas aplicações PHP a partir de um repositório chamado "Packagist". Também pode instalar aplicações PHP disponíveis no Packagist. Além disso, facilita o uso de código de terceiros, fornecendo capacidades de autoload.
+
+- #### GitBash:
+    - O Git Bash é um terminal de linha de comando incluído na instalação do Git para Windows. Ele permite que os usuários executem comandos Git e outras operações de linha de comando em um ambiente semelhante ao Unix, facilitando o desenvolvimento e gerenciamento de projetos Git no Windows.
+
+- #### XAMPP:
+    - XAMPP é um pacote de software livre que inclui os principais servidores de código aberto do mercado, como Apache, MariaDB (anteriormente MySQL), PHP e Perl, além de um cliente FTP. É projetado para criar facilmente um servidor web local para testes, sendo uma combinação de plataformas multi-OS. O nome "XAMPP" deriva da abreviação de X (representando qualquer sistema operacional), Apache, MariaDB, PHP e Perl. Essa ferramenta é amplamente utilizada pelos desenvolvedores devido à sua facilidade de instalação e configuração.
 
 ## Publico Alvo:
 ### Empresários ou micro Empresários: 
 #### Principal StakeHolder da aplicação, pois poderá planejar suas tarefas no Aplicativo.
-    - Possui:
+    - Deve possuir:
         - Nome;
         - Email;
         - Telefone;
@@ -48,7 +182,7 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
         - Data de Nascimento;
   ### Profissional em administração: 
   #### Usará a aplicação para trabalhar ou auxiliar terceiros.
-    - Possui:
+    - Deve possuir:
         - Nome;
         - Email;
         - Telefone;
@@ -411,7 +545,7 @@ O ator está conectado ao sistema acessa a aba de “Meus Planos”, nela será 
 
 ## User Storie RF 8:
 
-Meu nome é Romero Britto, sou um empresário e já participei da fundação de 10 empresas diferentes (indo do ramo alimentício ao de bem estar). Por causa disto, eu já fiz vários planos de negócios diferentes no Chronos, mas agora surgiu a necessidade de eu ver um plano que eu realizei quando eu entrei na plataforma pela primeira vez. Eu preciso de um botão “Meus Planos” de fácil acesso para me direcionar a uma pagina que contenha todos os meus planos, onde posso encontrar o plano em específico que eu procuro.
+Meu nome é Romero Britto, sou um empresário e já participei da fundação de 10 empresas diferentes (indo do ramo alimentício ao de bem estar). Por causa disto, eu já fiz vários planos de negócios diferentes no Cronos, mas agora surgiu a necessidade de eu ver um plano que eu realizei quando eu entrei na plataforma pela primeira vez. Eu preciso de um botão “Meus Planos” de fácil acesso para me direcionar a uma pagina que contenha todos os meus planos, onde posso encontrar o plano em específico que eu procuro.
 
 # Requisito Funcional 9:
 
@@ -456,7 +590,7 @@ O ator que está conectado ao sistema acessa a aba de “Meus planos” e seleci
 
 ## User Storie RF 9:
 
-"Eu sou Nicolas Augusto, eu tinha criado uma empresa de Histórias em quadrinhos (Atlas), para organizar minhas ideias, eu também criei um plano no Chronos. Contudo, recentemente foi decidido que a Atlas também trabalhará com outras categorias de artes, com isso vejo a necessidade de alterar o plano que eu tinha feito anteriormente. Para isso, eu precisso de um botão alterar no plano que eu ja fiz na pagina ""Meus Planos"".
+"Eu sou Nicolas Augusto, eu tinha criado uma empresa de Histórias em quadrinhos (Atlas), para organizar minhas ideias, eu também criei um plano no Cronos. Contudo, recentemente foi decidido que a Atlas também trabalhará com outras categorias de artes, com isso vejo a necessidade de alterar o plano que eu tinha feito anteriormente. Para isso, eu precisso de um botão alterar no plano que eu ja fiz na pagina ""Meus Planos"".
 
 # Requisito Funcional 10:
 ### Feito por: João Victo Ribeiro Santos
