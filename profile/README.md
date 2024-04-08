@@ -289,7 +289,7 @@ O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desa
 
 ## Cadastrar Planejamento:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
@@ -327,7 +327,7 @@ Depois de fazer o login na plataforma, o usuario clica no botão “Novo planeja
 
 ## Filtrar Planejamentos:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
@@ -372,7 +372,7 @@ Usuario entra na página de listagem dos planos e tem a opção de clicar na cai
 
 ## Consultar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: João Victor Ribeiro Santos
+#### Revisado por: João Victo Ribeiro Santos
 
 ### Atores:
 
@@ -417,7 +417,7 @@ Meu nome é Romero Britto, sou um empresário e já participei da fundação de 
 
 ## Alterar Planejamentos:
 ### Feito por: Antônio Cássio de Oliveira Neto
-#### Revisado por: João Victor Ribeiro Santos
+#### Revisado por: João Victo Ribeiro Santos
 
 ### Atores:
 
@@ -460,7 +460,7 @@ O ator que está conectado ao sistema acessa a aba de “Meus planos” e seleci
 
 # Requisito Funcional 10:
 ### Feito por: João Victo Ribeiro Santos
-#### Revisado por: Patryck Henryck Moreira Silva
+#### Revisado por: Luis Felipe Krause de Castro
 ## Consultar Tarefas:
 
 ### Atores:
