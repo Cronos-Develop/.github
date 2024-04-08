@@ -141,7 +141,7 @@ As credenciais não são reconhecidas, então o usuário pode fazer o cadastro.
 
 ## Recuperar Dados:
 ### Feito por: Patryck Henryck Moreira Silva
-#### Revisado por: <nome>
+#### Revisado por: Antônio Cássio de Oliveira Neto
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração
@@ -189,7 +189,7 @@ O ator informa o email cadastrado no sistema, o sistema verifica se o email est�
 
 ## Alterar Dados:
 ### Feito por: Patryck Henryck Moreira Silva
-#### Revisado por: <nome>
+#### Revisado por: Antônio Cássio de Oliveira Neto
 ### Atores:
 
 Empresário, micro-empresário e profissional em administração.
@@ -274,3 +274,93 @@ O ator está conectado ao sistema. Acessando seu perfil, terá a opção de desa
 ## User Storie RF 5:
 
 “Sou Tiffany Sousa, uma profissional de administração usuária da Cronos. Criei minha conta na Cronos para ajudar no planejamento dos meus clientes. Depois de um tempo de testes, decidi deixar a plataforma. Desejo desativar meu cadastro através de um botão de ‘desativar’ e uma confirmação (outro botão).”
+
+# Requisito Funcional 8:
+
+## Consultar Planejamentos:
+### Feito por: Antônio Cássio de Oliveira Neto
+#### Revisado por: <nome>
+
+### Atores:
+
+Empresário, micro-empresário e profissional em administração
+
+### Descrição:
+
+Querendo consultar os planejamentos já cadastrados no Cronos, o autor deve fazer login na plataforma, agora dentro da plataforma, o autor deve se direcionar para a área “Meus Planos” aonde estarão todos os planos feitos pelo autor ou pela equipe / empresa do qual o autor faça parte. Lá ele pode ver todas as informações dos planos.
+
+### Pré-condição:
+
+1. O ator deve estar cadastrado no sistema;
+2. O ator deve fazer o login na plataforma;
+3. O autor já fez um planejamento;
+
+### Fluxo Principal:
+
+O ator está conectado ao sistema acessa a aba de “Meus Planos”, nela será mostrado todos planos que o autor criou ou da equipe / empresa que o autor faça parte. O autor pode verificar os detalhes e informações do plano selecionando o plano específico. Há a opção do autor pesquisar por um plano específico com uma barra de pesquisa.
+
+### Fluxo Secundário:
+
+1. O usuário aperta em cancelar e a busca pelo plano é cancelada.
+
+### Campos de Formulário:
+
+| Dado: | Tipo de dado: | Placeholder: |
+| --- | --- | --- |
+| ID | Númerico | ID do Plano |
+| Nome | Texto | Nome do Plano |
+| Data | Datatime | Data de criação |
+
+### Opções do Usuário:
+
+- Pesquisar Plano
+- Cancelar
+
+## User Storie RF 8:
+
+Meu nome é Romero Britto, sou um empresário e já participei da fundação de 10 empresas diferentes (indo do ramo alimentício ao de bem estar). Por causa disto, eu já fiz vários planos de negócios diferentes no Chronos, mas agora surgiu a necessidade de eu ver um plano que eu realizei quando eu entrei na plataforma pela primeira vez. Eu preciso de um botão “Meus Planos” de fácil acesso para me direcionar a uma pagina que contenha todos os meus planos, onde posso encontrar o plano em específico que eu procuro.
+
+# Requisito Funcional 9:
+
+## Alterar Planejamentos:
+### Feito por: Antônio Cássio de Oliveira Neto
+#### Revisado por: <nome>
+
+### Atores:
+
+Empresário, micro-empresário e profissional em administração
+
+### Descrição:
+
+Querendo realizar alterações em planejamentos já cadastrados, o autor deve entrar na plataforma, dentro da plataforma, o autor irá se direcionar para a área “Meus planos” aonde estarão todos os planos feitos pelo autor ou pela equipe / empresa do qual o autor faça parte. Lá o autor poderá escolher o plano específico que ele deseja realizar alterações e depois salvar suas alterações.
+
+### Pré-condição:
+
+1. O ator deve estar cadastrado no sistema;
+2. O ator deve fazer o login na plataforma;
+3. O autor já fez um planejamento;
+
+### Fluxo Principal:
+
+O ator que está conectado ao sistema acessa a aba de “Meus planos” e seleciona o plano que ele deseja fazer á alteração, depois seleciona o botão alterar plano o qual dá opção para o ator alterar as informações do plano. Após fazer as alterações o ator pode confirmar ou cancelar as alterações e o sistema atualiza as informações do plano.
+
+### Fluxo Secundário:
+
+1. O usuário aperta em cancelar e as alterações são desfeitas;
+2. O usuário deixa informações de campos obrigatórios em branco impossibilitando a alteração de dados do plano;
+
+### Campos de Formulário:
+
+| Dados: | Tipos de Dados: | Placeholder: |
+| --- | --- | --- |
+| Plano | Texto | Alterar plano |
+
+### Opções do Usuário:
+
+- Alterar Plano
+- Salvar mudanças
+- Cancelar
+
+## User Storie RF 9:
+
+"Eu sou Nicolas Augusto, eu tinha criado uma empresa de Histórias em quadrinhos (Atlas), para organizar minhas ideias, eu também criei um plano no Chronos. Contudo, recentemente foi decidido que a Atlas também trabalhará com outras categorias de artes, com isso vejo a necessidade de alterar o plano que eu tinha feito anteriormente. Para isso, eu precisso de um botão alterar no plano que eu ja fiz na pagina ""Meus Planos"".
