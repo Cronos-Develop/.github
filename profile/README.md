@@ -2,11 +2,13 @@
 - [Aplicativo Cronos](#aplicativo-cronos)
     - [Quem Somos](#quem-somos)
     - [Desenvolvedores do projeto](#desenvolvedores-do-projeto)
+    - [Plataformas auxiliares ao desenvolvimento](#plataformas-auxiliares-ao-desenvolvimento)
     - [Tecnologias Utilizadas](#tecnologias-utilizadas)
         - [Front End](#front-end)
             - [HTML](#html)
             - [CSS](#css)
             - [JavaScript](#javascript)
+            - [BootStrap](#bootstrap)
         - [Back End](#back-end)
             - [PHP com Laravel](#php-com-laravel)
         - [Banco de dados](#banco-de-dados)
@@ -135,6 +137,13 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
 ##
 
+## Plataformas auxiliares ao desenvolvimento:
+|Plataforma|Link|
+|---|---|
+|Trello|[Link](https://trello.com/invite/b/mlntL5dG/ATTI8ea9083e569942707680a4248192861849E7211A/projeto-de-sistemas-copia)|
+|FIGMA|[Link](https://www.figma.com/file/ww2XqGUQdp9cG4VV6udAnf/Cronos?type=design&node-id=0-1&mode=design)|
+##
+
 ## Tecnologias Utilizadas:
 ### Front End:
 - #### HTML:
@@ -145,6 +154,9 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 
 - #### JavaScript:
     - JavaScript é uma linguagem de programação de alto nível que é interpretada pelos navegadores e serve para atribuir funções aos elementos HTML, ela pode ser utilizada para validação de dados, criação de funções e armazenamento de dados. Possuindo uma grande variação de objetos e ferramentas para o programador. Ela também é fracamente tipada e é interpretada linha a linha de cima para baixo.
+
+- #### BootStrap:
+    - Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.
 
 ### Back End:
 - #### PHP com Laravel:
