@@ -1,6 +1,7 @@
 # Documentação de Padronização e de Sprints:
 
 ## Padrões de Desenvolvimento:
+Aqui estão os padrões e nomenclaturas utilizadas como preferência para o desenvolvimento da Aplicação.
 
 ### Commits:
 - Os commits no repositório devem ser feitos da seguinte forma:
