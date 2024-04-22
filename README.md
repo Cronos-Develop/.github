@@ -121,10 +121,11 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
 
 ### Releases:
 - Front-End:
-  - [v0.0.0]()
+  - [v0.0.0](https://github.com/Cronos-Develop/Front-End/releases/tag/v0.0.0)
     - Revisores:
       - [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
       - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Back-End:
   - [v0.0.0]()
     - Revisores:
