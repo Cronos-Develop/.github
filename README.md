@@ -98,29 +98,29 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
   
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
-  - Criar tela inicial e JavaScript de validação de dados:
+  - Criar tela de login e JavaScript de validação de dados:
     - [Merge pull request #3 from Cronos-Develop/LuFi-1227-feature](https://github.com/Cronos-Develop/Front-End/commit/912aa92ac06dcf544bccf8e07261b4bc20ecf2a5) Revisor: [Patryck Henryck Moreira Silva](https://github.com/PHmore)
-    - Padronização de nomes de branchs e de commits:
+  - Padronização de nomes de branchs e de commits:
 - <strong>Patryck Henryck Moreira Silva</strong>:
   - Criar UX/UI design:
     - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
   - Criar UserFlow da aplicação:
     - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
+  - Criar tela inicial:
+  - Criar tela de cadastro:
 - <strong>Luis Felipe Krause de Castro</strong>:
+  - Modelagem da Index na API:
 - <strong>João Victor Ribeiro Santos</strong>:
+  - Modelagem e criação do banco de dados:
 
 ### Sprint 3:
 #### Metas da Sprint:
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
-  
 - <strong>Patryck Henryck Moreira Silva</strong>:
-  
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
- 
 - <strong>Luis Felipe Krause de Castro</strong>:
-
 - <strong>João Victor Ribeiro Santos</strong>:
   
 ### Sprint 4:
