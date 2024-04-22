@@ -103,11 +103,11 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
     - Padronização de nomes de branchs e de commits:
 - <strong>Patryck Henryck Moreira Silva</strong>:
   - Criar UX/UI design:
+    - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
   - Criar UserFlow da aplicação:
+    - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
- 
 - <strong>Luis Felipe Krause de Castro</strong>:
-
 - <strong>João Victor Ribeiro Santos</strong>:
 
 ### Sprint 3:
