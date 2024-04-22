@@ -114,7 +114,7 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
      - [Merge pull request #5 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/8be51896cc8f2477eb34fa055fe68bbfc3ae2956) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>Luis Felipe Krause de Castro</strong>:
   - Modelagem da Index na API:
-    - []()
+    - [Merge pull request #6 from Cronos-Develop/feature-LuisFelipeKrause](https://github.com/Cronos-Develop/API/commit/1fe0496412162b2328c5b8a6cdc368915587d185) Revisor: [João Victor Ribeiro Santos](https://github.com/Carecovisk)
 - <strong>João Victor Ribeiro Santos</strong>:
   - Modelagem e criação do banco de dados:
     - [Merge pull request #5 from Cronos-Develop/Carecovisk-feature](https://github.com/Cronos-Develop/API/commit/01ba013df79f9056bc7aa16ebac5673c68d72566) Revisor: [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
@@ -127,7 +127,7 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
       - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Back-End:
-  - [v0.0.0]()
+  - [v0.0.0](https://github.com/Cronos-Develop/API/releases/tag/v0.0.0)
     - Revisores:
       - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
       - [João Victor Ribeiro Santos](https://github.com/Carecovisk)
