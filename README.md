@@ -117,7 +117,7 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
     - []()
 - <strong>João Victor Ribeiro Santos</strong>:
   - Modelagem e criação do banco de dados:
-    - []()
+    - [Merge pull request #5 from Cronos-Develop/Carecovisk-feature](https://github.com/Cronos-Develop/API/commit/01ba013df79f9056bc7aa16ebac5673c68d72566) Revisor: [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
 
 ### Releases:
 - Front-End:
@@ -131,6 +131,7 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
     - Revisores:
       - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
       - [João Victor Ribeiro Santos](https://github.com/Carecovisk)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Documentação Principal:
   - [v2.0.0]()
     - Revisor:
