@@ -114,8 +114,10 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
      - [Merge pull request #5 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/8be51896cc8f2477eb34fa055fe68bbfc3ae2956) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>Luis Felipe Krause de Castro</strong>:
   - Modelagem da Index na API:
+    - []()
 - <strong>João Victor Ribeiro Santos</strong>:
   - Modelagem e criação do banco de dados:
+    - []()
 
 ### Releases:
 - Front-End:
