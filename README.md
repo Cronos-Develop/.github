@@ -101,6 +101,7 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
   - Criar tela de login e JavaScript de validação de dados:
     - [Merge pull request #3 from Cronos-Develop/LuFi-1227-feature](https://github.com/Cronos-Develop/Front-End/commit/912aa92ac06dcf544bccf8e07261b4bc20ecf2a5) Revisor: [Patryck Henryck Moreira Silva](https://github.com/PHmore)
   - Padronização de nomes de branchs e de commits:
+    - [Merge pull request #13 from Cronos-Develop/LuFi-1227-feature](https://github.com/Cronos-Develop/.github/commit/90b0096d22105af24d31caf58ca14a7d6a0dbedb) Revisor: [---]()
 - <strong>Patryck Henryck Moreira Silva</strong>:
   - Criar UX/UI design:
     - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
@@ -108,11 +109,29 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
     - [Merge pull request #4 from Cronos-Develop/PHmore-feature](https://github.com/Cronos-Develop/Front-End/commit/23285d25e7b008221a3cc20e01f8aed39c32263b) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
   - Criar tela inicial:
+    - [Merge pull request #5 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/8be51896cc8f2477eb34fa055fe68bbfc3ae2956) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
   - Criar tela de cadastro:
+     - [Merge pull request #5 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/8be51896cc8f2477eb34fa055fe68bbfc3ae2956) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>Luis Felipe Krause de Castro</strong>:
   - Modelagem da Index na API:
 - <strong>João Victor Ribeiro Santos</strong>:
   - Modelagem e criação do banco de dados:
+
+### Releases:
+- Front-End:
+  - [v0.0.0]()
+    - Revisores:
+      - [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
+      - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
+- Back-End:
+  - [v0.0.0]()
+    - Revisores:
+      - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
+      - [João Victor Ribeiro Santos](https://github.com/Carecovisk)
+- Documentação Principal:
+  - [v2.0.0]()
+    - Revisor:
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 
 ### Sprint 3:
 #### Metas da Sprint:
@@ -152,6 +171,13 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
 ### Sprint final:
 
 ## Documentação:
+Aqui se encontram as documentações dos repositórios utilizados na criação desta aplicação.
+
+### Organização:
+- [link](https://github.com/Cronos-Develop)
 ### Front-end:
+- [link](https://github.com/Cronos-Develop/Front-End)
 ### Back-end:
+- [link](https://github.com/Cronos-Develop/API)
 ### UX/UI design:
+- [link](https://github.com/Cronos-Develop/Front-End)
