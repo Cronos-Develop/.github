@@ -73,9 +73,9 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
     - [Merge pull request #3 from Cronos-Develop/RF08-RF09](https://github.com/Cronos-Develop/.github/commit/169bd9bf8f7a1af44783273f43000fc23c952c39) Revisor: [João Victor Ribeiro Santos](https://github.com/Carecovisk)
 - <strong>Luis Felipe Krause de Castro</strong>:
   - Criar Requisito Funcional 2:
-    - [Merge pull request #2 from Cronos-Develop/LuisFelipeKrause-patch-1](https://github.com/Cronos-Develop/.github/commit/ad9a4741122d6969440b2d1805d685b78f454015) Revisor: Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+    - [Merge pull request #2 from Cronos-Develop/LuisFelipeKrause-patch-1](https://github.com/Cronos-Develop/.github/commit/ad9a4741122d6969440b2d1805d685b78f454015)  Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
   - Criar Requisito Funcional 5:
-    - [Merge pull request #2 from Cronos-Develop/LuisFelipeKrause-patch-1](https://github.com/Cronos-Develop/.github/commit/ad9a4741122d6969440b2d1805d685b78f454015) Revisor: Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+    - [Merge pull request #2 from Cronos-Develop/LuisFelipeKrause-patch-1](https://github.com/Cronos-Develop/.github/commit/ad9a4741122d6969440b2d1805d685b78f454015) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>João Victor Ribeiro Santos</strong>:
   - Criar Requisito Funcional 6:
     - [Merge pull request #4 from Cronos-Develop/RF6-7-10](https://github.com/Cronos-Develop/.github/commit/5960fbffd686f6aaf8f4636d22db7a8d6b69e15c) Revisor: [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
@@ -84,6 +84,10 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
   - Criar Requisito Funcional 10:
     - [Merge pull request #4 from Cronos-Develop/RF6-7-10](https://github.com/Cronos-Develop/.github/commit/5960fbffd686f6aaf8f4636d22db7a8d6b69e15c) Revisor: [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
 
+### Releases:
+- Documentação Principal (Versão 1.0.0):
+  - [v1.0.0](https://github.com/Cronos-Develop/.github/releases/tag/v1.0.0) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+    
 ### Sprint 2:
 #### Metas da Sprint:
 - Criação do UX/UI design;
