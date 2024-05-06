@@ -133,19 +133,61 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
       - [João Victor Ribeiro Santos](https://github.com/Carecovisk)
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Documentação Principal:
-  - [v2.0.0]()
+  - [v2.0.0](https://github.com/Cronos-Develop/.github/releases/tag/v2.0.0)
     - Revisor:
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
-
+  
 ### Sprint 3:
 #### Metas da Sprint:
+- Prototipação Requisito Funcional 1:
+```
+Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata de porta em porta à pouco tempo e gostaria de usar meu *celular* para me *cadastrar* em uma plataforma para planejar meu dia a dia com a ajuda de algum aplicativo que me ajudasse à priorizar minhas atividades com base nas informações que eu fornecesse e salvasse meu progresso para que eu veja o que eu fiz quando eu comprar um computador.
+```
+  - Modelagem da API;
+  - Criação de Javascript das páginas;
+- Prototipação Requisito Funcional 2:
+```
+“Meu nome é Iveto Sangalo. Sou um empresário que utiliza a Cronos para auxílio no planejamento de operações da minha empresa. Sou cadastrado na plataforma, então desejo acessar minha conta através do meu CPF e senha para usar as ferramentas de organização.”
+```
+  - Modelagem da API;
+  - Criação de Javascript das páginas;
+- Prototipação e análise UI/UX para computador;
+
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
+  - Criação de JavasCript das páginas RF1 e RF2:
+    - [Merge pull request #8 from Cronos-Develop/LuFi-1227-feature](https://github.com/Cronos-Develop/Front-End/commit/4f175f25660dcb4fa39735b7bdb8b1f8a30ab6f6) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
+  - Coleta de Análise Heurística da aplicação:
+    - [Análise Heurística](https://docs.google.com/document/d/1Q-mdVcXxeiyjMVkKlLUvXRu8sSLGfnEM1ZgDPDQ9PSo/edit?usp=sharing) Revisor: ---
 - <strong>Patryck Henryck Moreira Silva</strong>:
+  - Prototipação do aplicativo para Computador:
+    - [](https://github.com/Cronos-Develop/Front-End/pull/9) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227) 
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
+  - Criação do restante das telas HTML para próximas Sprints:
+    -  [Merge pull request #7 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/4f175f25660dcb4fa39735b7bdb8b1f8a30ab6f6) Revisor: [Patryck Henryck Moreira Silva](https://github.com/PHmore)
 - <strong>Luis Felipe Krause de Castro</strong>:
+  - Modelagem CRUD da API:
+    - [Merge pull request #8 from Cronos-Develop/feature-LuisFelipeKrause](https://github.com/Cronos-Develop/API/commit/053ebd89813c83a4cb38a3a54f5c3cfbd247d906) Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>João Victor Ribeiro Santos</strong>:
-  
+  - Não fez contribuição nenhuma.
+
+### Releases:
+- Front-End:
+  - [v0.0.1](https://github.com/Cronos-Develop/Front-End/releases/tag/v0.0.1)
+    - Revisores:
+      - [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
+      - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+- Back-End:
+  - [v0.0.1](https://github.com/Cronos-Develop/API/releases/tag/v0.0.1)
+    - Revisores:
+      - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+- Documentação Principal:
+  - [v2.0.1]()
+    - Revisor:
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+        
 ### Sprint 4:
 #### Metas da Sprint:
 #### Relatório de Gestão (por pessoa):
@@ -158,8 +200,8 @@ Aqui consta o relatório da 1° Sprint feita para este projeto.
 - <strong>Luis Felipe Krause de Castro</strong>:
 
 - <strong>João Victor Ribeiro Santos</strong>:
-  
-### Sprint 5:
+
+### Sprint 4:
 #### Metas da Sprint:
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
