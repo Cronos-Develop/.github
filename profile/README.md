@@ -1,7 +1,12 @@
-# Projeto de Sistemas-2024.1 | Universidade Federal do Tocantins - Palmas, 2024
+# Projeto de Sistemas-2024.1 _ Universidade Federal do Tocantins - Palmas, 2024 _ Desenvolvimento do aplicativo Cronos
 #### Curso: Bacharelado em Ciência da Computação
 #### Professor: Edeilson Milhomem da Silva.
-
+#### Alunos:
+- #### Luiz Filipe de Souza Alves
+- #### Patryck Henryck Moreira Silva
+- #### Antônio Cássio de Oliveira Neto
+- #### Luis Felipe Krause de Castro
+- #### João Victor Ribeiro Santos
 ---
 
 # Índice:
