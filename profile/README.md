@@ -151,7 +151,7 @@ O Cronos é uma plataforma digital de gestão de tempo e de tarefas focadas em u
 ## Plataformas auxiliares ao desenvolvimento:
 |Plataforma|Link|
 |---|---|
-|Trello|[Link](https://trello.com/invite/b/mlntL5dG/ATTI8ea9083e569942707680a4248192861849E7211A/projeto-de-sistemas-copia)|
+|Trello|[Link](https://trello.com/invite/b/RQR4PK6B/ATTI84c1bcb73ac4285932bebf7e128936ab6E9CC97F/projeto-de-sistemas-4sprint)|
 |FIGMA|[Link](https://www.figma.com/file/ww2XqGUQdp9cG4VV6udAnf/Cronos?type=design&node-id=0-1&mode=design)|
 |Relatórios de Sprints|[Link](https://github.com/Cronos-Develop/.github)|
 ##
