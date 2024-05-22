@@ -184,24 +184,50 @@ Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata 
       - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Documentação Principal:
-  - [v2.0.1]()
+  - [v2.0.1](https://github.com/Cronos-Develop/.github/releases/tag/v2.0.1)
     - Revisor:
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
         
 ### Sprint 4:
+#### Valor da Sprint:
+- Validação de UX/UI design do aplicativo por pessoas aleatoriamente escolhidas;
+- Correção de erros da prototipação do aplicativo
+
 #### Metas da Sprint:
+- Correção de erros no Aplicativo;
+- Criação de telas dos requisitos funcionais;
+  
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
-  
+  - Correções no JavaScript:
+    - [Merge pull request #12 from Cronos-Develop/LuFi-1227-feature](https://github.com/Cronos-Develop/Front-End/commit/84eb2f801d4c99dc0fb3a12e90269b304087d48c) Revisor: [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
 - <strong>Patryck Henryck Moreira Silva</strong>:
-  
+  - Correções no UX/UI design:
+    - [Update README.md #13](https://github.com/Cronos-Develop/Front-End/pull/13)Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
- 
+  - Criação e layout das telas do aplicativo:
+    - 
 - <strong>Luis Felipe Krause de Castro</strong>:
-
 - <strong>João Victor Ribeiro Santos</strong>:
 
-### Sprint 4:
+### Releases:
+- Front-End:
+  - [v0.0.2]()
+    - Revisores:
+      - [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
+      - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+- Back-End:
+  - [v0.0.2]()
+    - Revisores:
+      - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+- Documentação Principal:
+  - [v2.0.2]()
+    - Revisor:
+      - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
+        
+### Sprint 5:
 #### Metas da Sprint:
 #### Relatório de Gestão (por pessoa):
 - <strong>Luiz Filipe de Souza Alves</strong>:
