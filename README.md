@@ -190,7 +190,6 @@ Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata 
         
 ### Sprint 4:
 #### Valor da Sprint:
-- Validação de UX/UI design do aplicativo por pessoas aleatoriamente escolhidas;
 - Correção de erros da prototipação do aplicativo
 
 #### Metas da Sprint:
@@ -206,19 +205,23 @@ Sou Cláudio Arraio, sou um empresário que começou no ramo de venda de batata 
     - [Update README.md #13](https://github.com/Cronos-Develop/Front-End/pull/13)Revisor: [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - <strong>Antônio Cássio de Oliveira Neto</strong>:
   - Criação e layout das telas do aplicativo:
-    - 
+    - [Merge pull request #11 from Cronos-Develop/ACNprogrammer-feature](https://github.com/Cronos-Develop/Front-End/commit/13c4fc829ed6e8a7f1dda1b6dbc6ed162a4f8b28) Revisor: [Patryck Henryck Moreira Silva](https://github.com/PHmore)
 - <strong>Luis Felipe Krause de Castro</strong>:
+  - Correção de Bugs na API:
+    - [Merge pull request #12 from Cronos-Develop/bugfix-Empresas](https://github.com/Cronos-Develop/API/commit/c82ede82d8fc3d2692a495ce48d11b465c05c20f) Revisor: [João Victor Ribeiro Santos](https://github.com/Carecovisk)
 - <strong>João Victor Ribeiro Santos</strong>:
+  - Correção de Bugs e criação de documentação:
+    - [Merge pull request #10 from Cronos-Develop/feature-Carecovisk](https://github.com/Cronos-Develop/API/commit/f7ec32f24b1f2bc15d7d5b5e43917dcc63d483b8) Revisor: [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
 
 ### Releases:
 - Front-End:
-  - [v0.0.2]()
+  - [v0.0.2](https://github.com/Cronos-Develop/API/releases/tag/v0.0.2)
     - Revisores:
       - [Antônio Cássio de Oliveira Neto](https://github.com/Cronos-Develop/.github/commit/9fd284fe6e11f3bf5b0f2acbab902c3936700ffb)
       - [Patryck Henryck Moreira Silva](https://github.com/PHmore)
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
 - Back-End:
-  - [v0.0.2]()
+  - [v0.0.2](https://github.com/Cronos-Develop/Front-End/releases/tag/v0.0.2)
     - Revisores:
       - [Luis Felipe Krause de Castro](https://github.com/LuisFelipeKrause)
       - [Luiz Filipe de Souza Alves](https://github.com/LuFi-1227)
